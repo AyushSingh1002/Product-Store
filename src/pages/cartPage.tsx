@@ -1,8 +1,6 @@
-import React from "react";
+
 import { ProductsStore } from "@/store/productStore";
 import { Button } from "@/components/ui/button";
-import { toast } from "react-hot-toast";
-
 interface Product {
   id: number;
   title: string;

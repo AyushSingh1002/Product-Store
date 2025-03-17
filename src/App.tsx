@@ -1,5 +1,5 @@
-import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+
+import { Routes, Route } from "react-router-dom";
 import Product from "./pages/ProductPage";
 import CartPage from "./pages/cartPage";
 import  Navbar  from "./components/ui/Navbar";
